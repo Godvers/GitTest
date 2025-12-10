@@ -1,3 +1,3 @@
 # GitTest
 Repository for trst Github
-Я Блять в ахуе
+Тестовый репозиторий, дополнительный текст
